@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "509458952245",
+    "firebase_url": "https://bicycle-rental-b3c75-default-rtdb.firebaseio.com",
+    "project_id": "bicycle-rental-b3c75",
+    "storage_bucket": "bicycle-rental-b3c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509458952245:android:9cdb6608562b9217de817c",
+        "android_client_info": {
+          "package_name": "com.example.bicycle.rental.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwgftyxlwm0tDOSIXrRihd-5cRRv_t0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509458952245:android:672cb4a989bf1618de817c",
+        "android_client_info": {
+          "package_name": "com.gmail.riteshbakare420.bicyclerental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwgftyxlwm0tDOSIXrRihd-5cRRv_t0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
